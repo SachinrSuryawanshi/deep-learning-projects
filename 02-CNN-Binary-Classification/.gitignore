@@ -1,0 +1,13 @@
+# Dataset files
+02-CNN-Binary-Classification/data/
+
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
